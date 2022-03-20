@@ -10,6 +10,9 @@
             android:supportsRtl="true"
             android:theme="@style/Theme.Slicing">
         <activity
+                android:name=".MrHeadActivity"
+                android:exported="true"/>
+        <activity
                 android:name=".MainActivity"
                 android:exported="true">
             <intent-filter>

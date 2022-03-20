@@ -3,12 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/drawable/edit_text_rounded.xml" value="0.17708333333333334" />
         <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/drawable/gradient_background.xml" value="0.17708333333333334" />
         <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/drawable/ic_launcher_background.xml" value="0.178125" />
         <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/drawable/icon.xml" value="0.178125" />
         <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/drawable/login_button.xml" value="0.178125" />
+        <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/drawable/login_button_rounded.xml" value="0.17708333333333334" />
         <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/drawable/login_edittext.xml" value="0.7333333333333334" />
-        <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/drawable/logo_rounded.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/layout/activity_main.xml" value="0.2111111111111111" />
+        <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/layout/activity_main2.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/layout/activity_mr_head.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/layout/mr-head.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/layout/mr_head.xml" value="0.1609375" />
+        <entry key="..\:/Users/novel/IdeaProjects/Slicing/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11296296296296296" />
       </map>
     </option>
   </component>
